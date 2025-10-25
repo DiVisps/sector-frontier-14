@@ -2124,3 +2124,12 @@ Entries:
   id: 156
   time: '2025-10-25T14:42:15.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/302
+- author: BrennNight
+  changes:
+    - type: Add
+      message: Добавлен новый параллакс для сектора наёмников
+    - type: Fix
+      message: Фикс параллакс ДаркСпэйс.
+  id: 157
+  time: '2025-10-25T15:08:28.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/319
