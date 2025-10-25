@@ -1967,3 +1967,10 @@ Entries:
   id: 143
   time: '2025-10-25T05:52:24.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/268
+- author: fox76055
+  changes:
+    - type: Tweak
+      message: 'Concord-Venture: Полный ремап внутренней части корабля.'
+  id: 144
+  time: '2025-10-25T07:00:11.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/306
