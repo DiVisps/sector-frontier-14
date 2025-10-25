@@ -1983,3 +1983,16 @@ Entries:
   id: 145
   time: '2025-10-25T07:10:59.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/307
+- author: LeptonComm
+  changes:
+    - type: Tweak
+      message: Большинству базовых энергетических пушек был повышен урон в 2 раза
+    - type: Tweak
+      message: >-
+        Незначительно занерфлен фугас чайниста, теперь он кладет в крит, но не
+        убивает
+    - type: Tweak
+      message: Расшир магазинам от хС-67 уменьшена емкость с 60 до 50 (окончательно)
+  id: 146
+  time: '2025-10-25T07:18:19.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/308
