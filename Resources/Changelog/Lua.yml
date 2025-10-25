@@ -1974,3 +1974,12 @@ Entries:
   id: 144
   time: '2025-10-25T07:00:11.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/306
+- author: BrennNight
+  changes:
+    - type: Add
+      message: Добавлено 5 новых пижам доступных в Параллель-О-Венде
+    - type: Add
+      message: Добавлены 4 новых латексных наряда!
+  id: 145
+  time: '2025-10-25T07:10:59.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/307
