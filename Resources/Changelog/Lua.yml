@@ -2076,3 +2076,15 @@ Entries:
   id: 152
   time: '2025-10-25T09:16:18.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/313
+- author: salo2016
+  changes:
+    - type: Add
+      message: >-
+        Больше рыб, богу пруда и удочки! ёрш, рыба-бумеранг, форель, золотой
+        карась, горбуша, карась, килька, окунь, омуль, пескарь, рыба-кольцо,
+        скумбрия, сельдь, стерлядь, тунец;
+    - type: Tweak
+      message: Не перегружайте ДАМ! Взрыв теперь будет очень плачевным..
+  id: 153
+  time: '2025-10-25T09:19:58.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/314
