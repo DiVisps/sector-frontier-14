@@ -8,8 +8,6 @@
   name: Теневой Кошмар
   suffix: адмем
   components:
-  - type: Damageable
-    damageModifierSet: HorrorLuaImmune
   - type: LumenAversion
   - type: AutoBoo
     spawnAnomalyOnInit: AnomalyShadowTimed
