@@ -2446,3 +2446,16 @@ Entries:
   id: 179
   time: '2025-11-23T13:37:47.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/366
+- author: PyotrIgn
+  changes:
+    - type: Tweak
+      message: >-
+        Вместо двух филе рыбы теперь одно - или добываемое из разделываемых рыб
+        или через "обезвреживание" филе карпа.
+    - type: Fix
+      message: >-
+        Исправлен рецепт ролла с карпом - теперь он требует филе карпа, а не
+        "обезвреженное" филе рыбы.
+  id: 180
+  time: '2025-11-23T13:42:53.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/369
